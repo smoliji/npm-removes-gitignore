@@ -1,0 +1,23 @@
+{
+  "name": "npm-removes-gitignore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "bin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smoliji/npm-removes-gitignore.git"
+  },
+  "author": "smolikjirka@gmail.com",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/smoliji/npm-removes-gitignore/issues"
+  },
+  "homepage": "https://github.com/smoliji/npm-removes-gitignore#readme",
+  "dependencies": {
+    "npm": "^9.6.2"
+  }
+}
